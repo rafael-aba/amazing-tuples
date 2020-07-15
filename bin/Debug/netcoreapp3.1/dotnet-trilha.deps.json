@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-trilha/1.0.0": {
+        "runtime": {
+          "dotnet-trilha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-trilha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

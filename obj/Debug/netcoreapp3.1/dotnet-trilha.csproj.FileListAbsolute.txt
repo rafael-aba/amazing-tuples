@@ -1,0 +1,11 @@
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha.deps.json
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha.runtimeconfig.json
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha.runtimeconfig.dev.json
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha.dll
+/home/rafael/Documents/dotnet-trilha/bin/Debug/netcoreapp3.1/dotnet-trilha.pdb
+/home/rafael/Documents/dotnet-trilha/obj/Debug/netcoreapp3.1/dotnet-trilha.csprojAssemblyReference.cache
+/home/rafael/Documents/dotnet-trilha/obj/Debug/netcoreapp3.1/dotnet-trilha.AssemblyInfoInputs.cache
+/home/rafael/Documents/dotnet-trilha/obj/Debug/netcoreapp3.1/dotnet-trilha.AssemblyInfo.cs
+/home/rafael/Documents/dotnet-trilha/obj/Debug/netcoreapp3.1/dotnet-trilha.dll
+/home/rafael/Documents/dotnet-trilha/obj/Debug/netcoreapp3.1/dotnet-trilha.pdb
